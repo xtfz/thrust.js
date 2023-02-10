@@ -1,0 +1,16 @@
+{
+  "name": "thrust.js",
+  "version": "2023.02.10",
+  "description": "An utility package to make your simple tasks simpler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["thrust", "thrust.js", "thrustjs", "xtfz"],
+  "author": "snehasishcodes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  }
+}
